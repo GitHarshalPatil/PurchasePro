@@ -2,15 +2,15 @@
 
 - [@Harshal Patil](https://github.com/GitHarshalPatil)
 
-- 🚀React Application Developer.
+- 🚀React Native Application Developer.
 
 ## Technology Used🧑‍💻
 
-- React
-- MongoDB
-- NodeJS.
+- React Native
+- Mango DB
+- Node JS.
 
-## React Components⚒
+## Reacr Native Components⚒
 - Redux
 - Custom components develope
 - Flatlist
@@ -30,17 +30,12 @@
 - It provide training and scientific way to farmers for Fruits production.
 - They also engage in farming on their own land and export fruits of the highest quality.
 ## Features📓
-<!-- - User Authentication – Utilizes Firebase phone authentication for secure user login. -->
 - Product Management – Allows adding, editing, and deleting edible fruit products with details like name, price, quantity, etc.
 - Enquiry details – It provide training and scientific way to farmers for Fruits production
-<!-- - Payment Integration – Integrates with payment gateways to facilitate secure online payments. -->
 
 ## Functionality📝
 - Manage fruits products and latest activity section – Admin can add, update, and track their products and also update activity status within the app.
 - Order tracking – Allows users to monitor the status of their orders, including processing, shipping, and delivery.
-<!-- - Customer management – Provides tools for managing customer information, preferences, and purchase history. -->
-<!-- - Sales analytics – Includes built-in analytics for monitoring sales performance, trends, and profitability. -->
-<!-- - Integration with payment gateways – Enables secure online payments for orders through integrated payment gateways. -->
 
 ## Feedback
 We value your feedback! Please send us your suggestions and comments at harshalpatil1847@gmail.com.
