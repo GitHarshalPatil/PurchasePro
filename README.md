@@ -1,79 +1,54 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+## 🔗 Hi, I'm Harshal! 👋
 
-# Getting Started
+- [@Harshal Patil](https://github.com/GitHarshalPatil)
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+- 🚀React Application Developer.
 
-## Step 1: Start the Metro Server
+## Technology Used🧑‍💻
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+- React
+- MongoDB
+- NodeJS.
 
-To start Metro, run the following command from the _root_ of your React Native project:
+## React Components⚒
+- Redux
+- Custom components develope
+- Flatlist
 
-```bash
-# using npm
-npm start
+## Screenshots😎
 
-# OR using Yarn
-yarn start
-```
+<img src="src/assets/projectImages/Screenshot(1.1).png" width="400" height="250px" />  <img src="src/assets/projectImages/Screenshot(1.2).png" width="400" height="250" />                             <br />
 
-## Step 2: Start your Application
 
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
 
-### For Android
+<img src="src/assets/projectImages/Screenshot(1.3).png" width="400" height="250" />  <img src="src/assets/projectImages/Screenshot(1.4).png" width="400" height="250" />  
 
-```bash
-# using npm
-npm run android
+<img src="src/assets/projectImages/Screenshot(1.5).png" width="400" height="250" />   <img src="src/assets/projectImages/Screenshot(1.6).png" width="400" height="250" />  
 
-# OR using Yarn
-yarn android
-```
+## Project Details📝
+- Fratelli fruits have agronomist team who travel farm to farm tarining farmers to grow quality fruits.
+- It provide training and scientific way to farmers for Fruits production.
+- They also engage in farming on their own land and export fruits of the highest quality.
+## Features📓
+<!-- - User Authentication – Utilizes Firebase phone authentication for secure user login. -->
+- Product Management – Allows adding, editing, and deleting edible fruit products with details like name, price, quantity, etc.
+- Enquiry details – It provide training and scientific way to farmers for Fruits production
+<!-- - Payment Integration – Integrates with payment gateways to facilitate secure online payments. -->
 
-### For iOS
+## Functionality📝
+- Manage fruits products and latest activity section – Admin can add, update, and track their products and also update activity status within the app.
+- Order tracking – Allows users to monitor the status of their orders, including processing, shipping, and delivery.
+<!-- - Customer management – Provides tools for managing customer information, preferences, and purchase history. -->
+<!-- - Sales analytics – Includes built-in analytics for monitoring sales performance, trends, and profitability. -->
+<!-- - Integration with payment gateways – Enables secure online payments for orders through integrated payment gateways. -->
 
-```bash
-# using npm
-npm run ios
+## Feedback
+We value your feedback! Please send us your suggestions and comments at harshalpatil1847@gmail.com.
 
-# OR using Yarn
-yarn ios
-```
-
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
-
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
-
-## Step 3: Modifying your App
-
-Now that you have successfully run the app, let's modify it.
-
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
-
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+## Optimizations
+- Continuous updates and improvements based on user feedback and market trends.
+- Enhanced security measures to protect user data and transactions.
+- Integration with additional APIs for enhanced functionality, such as real-time shipping tracking and customer support chat.
+- Performance optimizations for smooth and responsive user experience across devices.
+## Contributing
+- Contributions are welcome! Visit our GitHub repository to learn how you can contribute to the project.
