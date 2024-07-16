@@ -76,7 +76,7 @@ android {
 
     namespace "com.ecommerceappfigmatocode"
     defaultConfig {
-        applicationId "com.ecommerceappfigmatocode"
+        applicationId "com.purchasepro"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

@@ -6,6 +6,7 @@ import { fonts } from "../utils/fonts";
 import { useNavigation, useRoute } from "@react-navigation/native";
 import { addToCart } from "../utils/helper";
 import { CartContext } from "../context/CartContext";
+// import { useNavigation } from "@react-navigation/native";
 
 const colorsArray = [
   "#91A1B0",
@@ -20,6 +21,11 @@ const ProductDetailsScreen = () => {
   const { addToCartItem } = useContext(CartContext);
   const route = useRoute();
   const navigation = useNavigation();
+
+  // const handleProductDetails = (item) => {
+  //   navigation.navigate("PRODUCT_DETAILS", { item });
+  // };
+
   const product = route.params.item;
   const [selectedSize, setSelectedSize] = useState("M");
   const [selectedColor, setSelectedColor] = useState("#B11D1D");
