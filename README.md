@@ -17,22 +17,12 @@
 
 ## Screenshots😎
 
-
-
-![Screenshot_2024-07-16-12-21-18-18_2326ac9b6632051ad2604eaee2fb2a88]()
-![Screenshot_2024-07-16-12-21-30-61_2326ac9b6632051ad2604eaee2fb2a88]()
-
-![Screenshot_2024-07-16-12-21-48-78_2326ac9b6632051ad2604eaee2fb2a88]()
-
-![Screenshot_2024-07-16-12-21-56-48_2326ac9b6632051ad2604eaee2fb2a88]()
-
-
 <img src="https://github.com/user-attachments/assets/9d75dac8-5224-48ba-8409-f023635bcac5" width="200" />
 <img src="https://github.com/user-attachments/assets/fcef3218-63fe-4b64-82b1-5fe7c7b37bb4" width="200" /> <img src="https://github.com/user-attachments/assets/77df3101-d54b-40bb-ae00-32a1d768fa8e" width="200" /> 
 
 
-<img src="https://github.com/user-attachments/assets/9f58df38-dc26-468c-9851-b7ae0b53d4a7" width="200" /> <img src="https://github.com/Rohit-Jorvekar/edible-oil-sell/assets/126452105/b0bd7210-7d18-4219-a9e3-ff0f2b9e0547" width="200" /> 
-<img src="https://github.com/Rohit-Jorvekar/edible-oil-sell/assets/126452105/27548416-d910-48bb-a59c-57ace7c06e68" width="200" /> 
+<img src="https://github.com/user-attachments/assets/9f58df38-dc26-468c-9851-b7ae0b53d4a7" width="200" />
+ <!-- <img src="https://github.com/Rohit-Jorvekar/edible-oil-sell/assets/126452105/b0bd7210-7d18-4219-a9e3-ff0f2b9e0547" width="200" />  -->
 
 
 ## Project Details📝
