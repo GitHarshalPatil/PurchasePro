@@ -1,4 +1,4 @@
-![Screenshot_2024-07-16-12-21-48-78_2326ac9b6632051ad2604eaee2fb2a88](https://github.com/user-attachments/assets/1d84bba4-0849-451d-ba36-8d47406b08a0)## 🔗 Hi, I'm Harshal! 👋
+## 🔗 Hi, I'm Harshal! 👋
 
 - [@Harshal Patil](https://github.com/GitHarshalPatil)
 
